@@ -1,0 +1,30 @@
+{"timestamp":"2026-11-23T03:58:49.480Z","action":"LOGIN_ATTEMPT","ip":"::1","user":"agente.bogota","status":"FAILED","detail":"Contraseña incorrecta"}
+{"timestamp":"2026-11-23T03:59:25.524Z","action":"LOGIN_ATTEMPT","ip":"::1","user":"agente.bogota","status":"FAILED","detail":"Contraseña incorrecta"}
+{"timestamp":"2026-11-23T04:00:26.077Z","action":"LOGIN_SUCCESS","ip":"::1","user":"agente.bogota","status":"OK","detail":"Rol: agente"}
+{"timestamp":"2026-11-23T04:03:33.616Z","action":"POLICY_CREATE_INVALID","ip":"::1","user":"agente.bogota","status":"REJECTED","detail":""}
+{"timestamp":"2026-11-23T04:03:44.543Z","action":"POLICY_CREATE_INVALID","ip":"::1","user":"agente.bogota","status":"REJECTED","detail":""}
+{"timestamp":"2026-11-23T04:03:45.669Z","action":"POLICY_CREATE_INVALID","ip":"::1","user":"agente.bogota","status":"REJECTED","detail":""}
+{"timestamp":"2026-11-23T04:03:58.278Z","action":"POLICY_CREATE_INVALID","ip":"::1","user":"agente.bogota","status":"REJECTED","detail":""}
+{"timestamp":"2026-11-23T04:03:59.202Z","action":"POLICY_CREATE_INVALID","ip":"::1","user":"agente.bogota","status":"REJECTED","detail":""}
+{"timestamp":"2026-11-23T04:04:09.409Z","action":"POLICY_APPROVED","ip":"::1","user":"agente.bogota","status":"OK","detail":"APR-E1510E6A (Web)"}
+{"timestamp":"2026-11-23T04:04:32.897Z","action":"UNAUTHORIZED_ROLE_ACCESS","ip":"::1","user":"agente.bogota","status":"DENIED","detail":"/api/keywords"}
+{"timestamp":"2026-11-23T04:05:02.584Z","action":"POLICY_CREATE_INVALID","ip":"::1","user":"agente.bogota","status":"REJECTED","detail":""}
+{"timestamp":"2026-11-23T04:06:45.359Z","action":"LOGOUT","ip":"::1","user":"agente.bogota","status":"OK","detail":""}
+{"timestamp":"2026-11-23T04:07:25.354Z","action":"LOGIN_SUCCESS","ip":"::1","user":"admin.central","status":"OK","detail":"Rol: admin"}
+{"timestamp":"2026-11-23T04:08:15.185Z","action":"KEYWORDS_UPDATED","ip":"::1","user":"admin.central","status":"OK","detail":"ransomware,phishing,fortigate,mpls,api-seguros"}
+{"timestamp":"2026-11-23T04:35:38.023Z","action":"LOGIN_SUCCESS","ip":"::1","user":"agente.bogota","status":"OK","detail":"Rol: agente"}
+{"timestamp":"2026-11-23T04:35:42.078Z","action":"UNAUTHORIZED_ROLE_ACCESS","ip":"::1","user":"agente.bogota","status":"DENIED","detail":"/api/keywords"}
+{"timestamp":"2026-11-23T04:35:47.439Z","action":"LOGOUT","ip":"::1","user":"agente.bogota","status":"OK","detail":""}
+{"timestamp":"2026-11-23T04:35:58.888Z","action":"LOGIN_SUCCESS","ip":"::1","user":"admin.central","status":"OK","detail":"Rol: admin"}
+{"timestamp":"2026-11-23T04:36:01.091Z","action":"KEYWORDS_UPDATED","ip":"::1","user":"admin.central","status":"OK","detail":"ransomware,phishing,fortigate,mpls,api-seguros"}
+{"timestamp":"2026-11-23T04:48:32.780Z","action":"LOGOUT","ip":"::1","user":"admin.central","status":"OK","detail":""}
+{"timestamp":"2026-11-23T04:48:47.940Z","action":"LOGIN_SUCCESS","ip":"::1","user":"agente.bogota","status":"OK","detail":"Rol: agente"}
+{"timestamp":"2026-11-23T04:49:04.067Z","action":"POLICY_APPROVED","ip":"::1","user":"agente.bogota","status":"OK","detail":"APR-B22D9B43 (Web)"}
+{"timestamp":"2026-11-23T04:49:19.607Z","action":"UNAUTHORIZED_ROLE_ACCESS","ip":"::1","user":"agente.bogota","status":"DENIED","detail":"/api/keywords"}
+{"timestamp":"2026-11-23T04:49:21.320Z","action":"UNAUTHORIZED_ROLE_ACCESS","ip":"::1","user":"agente.bogota","status":"DENIED","detail":"/api/keywords"}
+{"timestamp":"2026-11-23T04:49:24.681Z","action":"LOGOUT","ip":"::1","user":"agente.bogota","status":"OK","detail":""}
+{"timestamp":"2026-11-23T04:49:38.623Z","action":"LOGIN_SUCCESS","ip":"::1","user":"admin.central","status":"OK","detail":"Rol: admin"}
+{"timestamp":"2026-11-23T04:49:53.325Z","action":"POLICY_CREATE_INVALID","ip":"::1","user":"admin.central","status":"REJECTED","detail":""}
+{"timestamp":"2026-11-23T04:50:00.121Z","action":"POLICY_APPROVED","ip":"::1","user":"admin.central","status":"OK","detail":"APR-BD141E2D (Oficina)"}
+{"timestamp":"2026-11-23T04:50:13.080Z","action":"KEYWORDS_UPDATED","ip":"::1","user":"admin.central","status":"OK","detail":"ransomware,phishing,fortigate,mpls,api-seguros"}
+{"timestamp":"2026-11-23T04:50:36.540Z","action":"KEYWORDS_UPDATED","ip":"::1","user":"admin.central","status":"OK","detail":"ransomware,phishing,fortigate,mpls,api-seguros"}
